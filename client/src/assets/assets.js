@@ -1,5 +1,6 @@
 import logo from './logo.svg'
 import logo_icon from './logo_icon.svg'
+import user_icon from './user_icon.svg'
 import facebook_icon from './facebook_icon.svg'
 import instagram_icon from './instagram_icon.svg'
 import twitter_icon from './twitter_icon.svg'
@@ -34,7 +35,8 @@ export const assets = {
     cross_icon,
     star_group,
     credit_star,
-    profile_icon
+    profile_icon,
+    user_icon
 }
 
 export const stepsData = [
