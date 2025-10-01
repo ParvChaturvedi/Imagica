@@ -82,7 +82,7 @@ const Header = () => {
                 whileHover={{scale: 1.05, duration:0.1}}
                 className='rounded hover:scale-105 transition-all 
                 duration-300 cursor-pointer max-sm:w-10' 
-                src={index%2 === 0 ? assets.sample_img_2 : assets.sample_img_1} 
+                src={index%2 === 0 ? assets.sample_img_1 : assets.sample_img_1} 
                 alt='' key={index} width=
                 {70} />
             ))}
